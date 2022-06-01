@@ -1,4 +1,4 @@
-# Reto_BooksAPI
+# Reto BooksAPI
 ## Reto en Postman BooksAPI
 Para las pruebas sobre esta API se segrego los request en folders 
 ## Observaciones
